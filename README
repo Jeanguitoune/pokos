@@ -1,1 +1,15 @@
 pokos for sons
+
+----------------------------------
+
+Build on Linux:
+sudo apt-get install cmake
+
+cmake -G"Unix Makefiles"
+
+----------------------------------
+Build on Windows:
+http://www.cmake.org/cmake/resources/software.html
+
+
+
