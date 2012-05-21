@@ -1,12 +1,16 @@
-#DÃ©claration du projet
+#Déclaration du projet
 project(pokos)
 
-#DÃ©claration de l'exÃ©cutable
+#Déclaration de l'exécutable
 add_executable(
 	pokos
 	src/Card.h
 	src/Card.cpp
-	src/Environnement.h
-	src/Environnement.cpp
+	src/Chipstack.h
+	src/Chipstack.cpp	
+	src/Player.h
+	src/Player.cpp
+	src/Table.h
+	src/Table.cpp
 	src/main.cpp
 )
