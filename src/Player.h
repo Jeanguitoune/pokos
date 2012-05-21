@@ -2,6 +2,8 @@
 #include "Card.h"
 #include "Chipstack.h"
 
+#include <stdlib.h>
+#include <string>
 #include <vector>
 using namespace std;
 

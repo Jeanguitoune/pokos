@@ -1,4 +1,8 @@
 #pragma once
+#include <stdio.h>
+#include <stdlib.h>
+
+
 enum colorTyp{
 	pique = 1,
 	coeur = 2,

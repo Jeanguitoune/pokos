@@ -1,4 +1,5 @@
 #include "Table.h"
+
 using namespace std;
 
 /*Convention gestion cartes : une carte est representée par un doublet (val, color)

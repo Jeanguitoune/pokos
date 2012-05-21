@@ -10,6 +10,14 @@ cmake -G"Unix Makefiles"
 ----------------------------------
 Build on Windows:
 http://www.cmake.org/cmake/resources/software.html
+add in path 
+
+cmake -G"Visual Studio 10"
+
+In VS 2010 
+solution explorer 
+right click on main project pokos
+"Set as startup project"
 
 
 
